@@ -29,3 +29,13 @@ public class starPattern6 {
         }
     }
 }
+
+/* 
+
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+
+*/

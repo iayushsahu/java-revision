@@ -23,3 +23,12 @@ public class starPattern1 {
         }
     }
 }
+
+/*
+
+****
+****
+****
+****
+
+*/

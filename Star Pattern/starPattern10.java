@@ -41,3 +41,14 @@ public class starPattern10 {
         }
     }
 }
+
+
+/* 
+
+* * * * * 
+ *     * 
+  *   * 
+   * * 
+    *
+
+*/
