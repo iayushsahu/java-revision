@@ -1,6 +1,6 @@
 // butterfly pattern
 
-public class starPattern17 {
+public class Pattern17 {
     public static void main(String[] args) {
         int N = 5;
 

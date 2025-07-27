@@ -2,7 +2,7 @@
 // hollow diamond pattern 
 import java.util.Scanner;
 
-public class starPattern12 {
+public class Pattern12 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

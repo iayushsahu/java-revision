@@ -1,6 +1,6 @@
 // X pattern 
 
-public class starPattern22 {
+public class Pattern22 {
     public static void main(String[] args) {
         int N = 5;  // Must be odd for symmetrical X
 

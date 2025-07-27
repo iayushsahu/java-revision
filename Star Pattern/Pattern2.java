@@ -2,7 +2,7 @@
 // right half pyramid
 import java.util.Scanner;
 
-public class starPattern2 {
+public class Pattern2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

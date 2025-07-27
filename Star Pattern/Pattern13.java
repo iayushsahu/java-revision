@@ -1,17 +1,19 @@
-// left-aligned solid rhombus
+// right-aligned solid rhombus
 
-public class starPattern15 {
+public class Pattern13 {
     public static void main(String[] args) {
         int N = 5;
         for (int i = 0; i < N; i++) {
-            // Leading spaces
-            for (int j = 0; j < N - i - 1; j++) {
+            // Print leading spaces
+            for (int j = 0; j < i; j++) {
                 System.out.print(" ");
             }
-            // Stars
+
+            // Print stars
             for (int k = 0; k < N; k++) {
                 System.out.print("*");
             }
+
             System.out.println();
         }
     }
@@ -19,10 +21,10 @@ public class starPattern15 {
 
 /* 
 
-    *****
-   *****
-  *****
- *****
 *****
+ *****
+  *****
+   *****
+    *****
 
 */

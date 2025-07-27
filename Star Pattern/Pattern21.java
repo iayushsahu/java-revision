@@ -1,6 +1,6 @@
 // K pattern 
 
-public class starPattern21 {
+public class Pattern21 {
     public static void main(String[] args) {
 		int N = 5;
 

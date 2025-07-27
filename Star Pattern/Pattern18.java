@@ -1,6 +1,6 @@
 // hollow butterfly pattern
 
-public class starPattern18 {
+public class Pattern18 {
     public static void main(String[] args) {
         int N = 5;
 
