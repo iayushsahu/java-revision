@@ -1,21 +1,21 @@
-public class numberPattern2 {
+public class Pattern6 {
     public static void main(String[] args) {
         int N = 5;
+        int k = 1;
 
         for (int i = 1; i <= N; i++) {
-            for (int j = i; j <= N; j++) {
-                System.out.print(i);
+            for (int j = 1; j <= i; j++) {
+                System.out.print(" " + k++);
             }
             System.out.println();
         }
     }
 }
 
-
-/* 
-11111
-2222
-333
-44
-5
+/*
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
 */

@@ -1,4 +1,4 @@
-public class numberPattern7 {
+public class Pattern8 {
     public static void main(String[] args) {
 		int N = 5;
 
@@ -7,7 +7,6 @@ public class numberPattern7 {
 
 			for (int j = 1; j <= i; j++) {
 				System.out.print(k);
-				k = 1 - k;
 			}
 			System.out.println();
 		}
@@ -17,8 +16,8 @@ public class numberPattern7 {
 
 /* 
 1
-01
-101
-0101
-10101
+00
+111
+0000
+11111
 */
